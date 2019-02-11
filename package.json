@@ -2,9 +2,9 @@
 "name": "coolnodeapp",
 "version": "1.0.0",
 "description": "node app ",
-"main": "demo_http_url.js",
+"main": "app.js",
 "scripts": {
-"start": "node demo_http_url.js"
+"start": "app.js"
 },
 "repository": {
 "type": "git",
